@@ -1,4 +1,4 @@
 genome customgenome
-organism Human
+organism Human & EBV T1
 trackDb trackDb.txt
 twoBitPath https://duke.box.com/s/hd587tliyvkzuuk6a3tak6ehgyb50ttd.2bit?raw=1
