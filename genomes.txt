@@ -1,6 +1,0 @@
-genome myCustomHg38
-organism Human
-defaultPos 1:1-1000000
-trackDb trackDb.txt
-twoBitPath https://duke.box.com/s/ayrswgps3r1zrwq235xglsnxxfj2iled?raw=1
-
