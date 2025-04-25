@@ -1,3 +1,4 @@
 genome customgenome
+organism Human
 trackDb trackDb.txt
 twoBitPath https://duke.box.com/s/hd587tliyvkzuuk6a3tak6ehgyb50ttd.2bit?raw=1
