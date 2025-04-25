@@ -1,2 +1,2 @@
-genome myCustomHg38
-track Db mygenome/trackDb.txt
+genome mygenome.2bit
+trackDb trackDb.txt
