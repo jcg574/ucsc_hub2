@@ -2,5 +2,5 @@ genome myCustomHg38
 organism Human
 defaultPos 1:1-1000000
 trackDb trackDb.txt
-twoBitPath https://people.duke.edu/~jg574/hub/mygenome.2bit
+twoBitPath https://people.duke.edu/~jg574/hub/mygenome.2bit.txt
 
