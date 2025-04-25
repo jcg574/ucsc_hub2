@@ -1,5 +1,5 @@
-hub Custom_ATACseq_Hub
-shortLabel ATAC Custom Hub
-longLabel ATAC-seq on custom genome
+hub ATACseqHub
+shortLabel ATAC Tracks
+longLabel ATAC-seq signal tracks
 genomesFile genomes.txt
 email jg574@duke.edu
