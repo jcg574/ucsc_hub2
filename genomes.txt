@@ -1,5 +1,5 @@
 genome myCustomHg38
 organism Human
-defaultPos chr1:1-1000000
+defaultPos 1:1-1000000
 trackDb trackDb.txt
 twoBitPath https://duke.box.com/shared/static/YOUR-2BIT-ID.2bit?raw=1https://duke.box.com/s/hd587tliyvkzuuk6a3tak6ehgyb50ttd.2bit?raw=1
