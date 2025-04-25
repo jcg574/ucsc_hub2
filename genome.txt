@@ -1,2 +1,0 @@
-twoBitPath mygenome.2bit
-chromSizes chrom.sizes
