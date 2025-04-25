@@ -1,2 +1,3 @@
-genome mygenome.2bit
+genome customgenome
 trackDb trackDb.txt
+twoBitPath mygenome.2bit
