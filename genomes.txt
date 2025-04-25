@@ -1,0 +1,2 @@
+genome myCustomHg38
+track Db mygenome/trackDb.txt

@@ -1,0 +1,8 @@
+track Day5_1580_LPKO_CD46
+type bigWig
+bigDataUrl Day5_1580_LPKO_CD46_signal.bw
+shortLabel 1580 LPKO CD46
+longLabel ATAC-seq signal for Day5 1580 LPKO CD46
+visibility full
+autoScale on
+priority 1

@@ -1,0 +1,5 @@
+hub Custom_ATACseq_Hub
+shortLabel ATAC Custom Hub
+longLabel ATAC-seq on custom genome
+genomesFile genomes.txt
+email jg574@duke.edu
