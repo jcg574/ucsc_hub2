@@ -1,3 +1,3 @@
 genome customgenome
 trackDb trackDb.txt
-twoBitPath mygenome.2bit
+twoBitPath https://duke.box.com/s/hd587tliyvkzuuk6a3tak6ehgyb50ttd.2bit?raw=1
